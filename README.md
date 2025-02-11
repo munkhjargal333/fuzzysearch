@@ -68,3 +68,4 @@ MIT
 [3]: https://golang.org/pkg/sort/
 [4]: https://pkg.go.dev/github.com/lithammer/fuzzysearch/fuzzy
 # fuzzysearch
+# fuzzysearch
